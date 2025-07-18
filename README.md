@@ -25,7 +25,7 @@ It suggests movies based on their genres using **cosine similarity**.
 - Python
 - pandas
 - scikit-learn (CountVectorizer & cosine similarity)
-- Google Colab / Jupyter Notebook
+- Google Colab 
 
 ---
 
